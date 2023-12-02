@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **kashannn361@gmail.com**
+- 📫 How to reach me **kashannnn361@gmail.com**
 
 - ⚡ Fun fact **I Think I Am Funny**
 
