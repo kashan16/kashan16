@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashan16&label=Profile%20views&color=0e75b6&style=flat" alt="kashan16" /> </p>
 
-- 🔭 I’m currently working on **Habitize-Mobile**
+- 🔭 I’m currently working on **Recipe_Blog**
 
-- 🌱 I’m currently working with **React-Native**
+- 🌱 I’m currently working with **Python-Flask**
 
 - 📫 How to reach me **kashannnn361@gmail.com**
 
