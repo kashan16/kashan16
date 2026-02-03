@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashan16&label=Profile%20views&color=0e75b6&style=flat" alt="kashan16" /> </p>
 
-- 🔭 I’m currently working on **ResuAI**
+- 🔭 I’m currently working with **WYZARD**
 
 - 🌱 I’m currently working with **REACT (TypeScript)**
 
